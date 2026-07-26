@@ -1,243 +1,184 @@
 <div align="center">
 
-  <!-- TOP ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7928ca,100:ff0080&height=230&section=header&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontSize=36&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Computer%20Vision&descSize=17&descAlignY=70" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontColor=ffffff&fontSize=38&animation=fade&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer%20•%20Machine%20Learning%20Developer&descAlignY=55"/>
 
-  <br/>
+# Saka Veera Satya Sai Prasanna
 
-<div align="center">
+### Artificial Intelligence Engineer • Machine Learning Developer • Researcher
 
-# Hi 👋, I'm Saka Veera Satya Sai Prasanna
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Computer+Vision+Developer;Amazon+ML+Summer+School+2026;Deep+Learning+%7C+Generative+AI;Always+Learning+Something+New"/>
 
-### AI Engineer | Machine Learning Enthusiast | Computer Vision Developer
+<p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Amazon+ML+Summer+School+2026;Always+Building+Something+New"/>
+<a href="https://github.com/sakavssprasanna-jpg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://leetcode.com/u/prasanna_saka/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/sakavssprasanna"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+
+</p>
 
 </div>
-## 🚀 About Me
 
-```yaml
-Name        : Saka Veera Satya Sai Prasanna
-Role        : AI Engineer & Machine Learning Developer
-Education   : B.Tech in CSE (AI & ML)
-College     : Pragati Engineering College
-CGPA        : 8.95 / 10.0
-Location    : Andhra Pradesh, India
+---
 
-Current Focus:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Computer Vision
-  - Full Stack AI Applications
+# 💻 System Information
 
-Currently:
-  - Amazon ML Summer School 2026 Scholar
-  - AI Research Intern @ MirAI
-  - Building Real-World AI Projects
+```text
+╭─────────────────────────────────────────────────────────────╮
+│ 👤 Name      :: Saka Veera Satya Sai Prasanna              │
+│ 🎓 Degree    :: B.Tech CSE (Artificial Intelligence & ML)  │
+│ 🏫 College   :: Pragati Engineering College                │
+│ ⭐ CGPA      :: 8.95 / 10.0                                │
+│ 🌍 Location  :: Andhra Pradesh, India                      │
+│ 💼 Status    :: AI & ML Intern | Open Source Learner       │
+│ 🔬 Research  :: Smart Accident Detection (MAT Journals)    │
+│ 🚀 Focus     :: AI • ML • CV • GenAI • LLMs               │
+╰─────────────────────────────────────────────────────────────╯
 ```
-## ⚡ Tech Stack
+
+---
+
+# 🚀 About Me
+
+I am a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent software that solves real-world problems.
+
+My interests include:
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Generative AI & LLMs
+- ⚡ Full Stack AI Applications
+- 📊 Data Analytics
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,postgres,supabase,pytorch,tensorflow,opencv,docker,aws,git,github,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,postgres,supabase,pytorch,tensorflow,opencv,docker,aws,git,github,vscode"/>
 
 </p>
-<div align="center">
 
-> **"Building AI that solves real-world problems through intelligent systems and impactful software."**
+---
 
-</div>
-## 🚀 Featured Projects
+# 🏆 Highlights
 
-<table>
-<tr>
-<td width="50%">
+- 🟢 Amazon ML Summer School 2026 Scholar
+- 🟢 Research Publication – MAT Journals
+- 🟢 MirAI AI Builder Internship
+- 🟢 AICTE EduSkills Internships
+- 🟢 National Hackathon Participant
 
-### 🤖 AI Code Tutor
+---
 
-**Enterprise AI-powered coding assistant**
+# 🚀 Featured Projects
 
-**Tech Stack**
-- Python
-- Streamlit
-- PyTorch
-- Hugging Face
-- DeepSeek
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Code Tutor | AI-powered coding assistant with PyTorch & Hugging Face |
+| 💼 AI Career Mentor | Personalized AI learning & career guidance platform |
+| 🚦 Smart Traffic Detection | Computer Vision based traffic monitoring system |
+| 🛡️ SAHAYA | AI-powered Women's Safety Application |
 
-✨ Intelligent debugging  
-✨ Code explanation  
-✨ AI-powered suggestions
+---
 
-</td>
+# 🌱 Currently Learning
 
-<td width="50%">
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLM Engineering
+- MLOps
+- Data Structures & Algorithms
 
-### 💼 AI Career Mentor
+---
 
-**Personalized AI learning platform**
+# 🎓 Education
 
-**Tech Stack**
-- React.js
-- PostgreSQL
-- Supabase
-- JavaScript
+| Degree | Institute | Performance |
+|---------|-----------|------------|
+| B.Tech CSE (AI & ML) | Pragati Engineering College | CGPA **8.95/10** |
+| Intermediate (MPC) | Sasi Junior College | **967/1000** |
 
-✨ Progress tracking  
-✨ AI Roadmaps  
-✨ Dashboard Analytics
+---
 
-</td>
-</tr>
+# 📜 Certifications
 
-<tr>
-<td width="50%">
+- Amazon ML Summer School 2026
+- NPTEL Quantum Computing (Elite + Silver)
+- AICTE EduSkills AI/ML Internship
+- ServiceNow Virtual Internship
+- Tata Forage – GenAI Data Analytics
+- Meta & NASSCOM – LLM for Young Developers
+- HackerRank Python
+- Kaggle Machine Learning
 
-### 🚦 Smart Traffic Detection
+---
 
-**Real-time Computer Vision System**
+# 📊 GitHub Analytics
 
-**Tech Stack**
-- OpenCV
-- Python
-- React
-- Supabase
+<p align="center">
 
-✨ Vehicle Detection
-✨ Emergency Alerts
-✨ Live Monitoring
-
-</td>
-
-<td width="50%">
-
-### 🛡️ SAHAYA
-
-**Women's Safety Platform**
-
-**Tech Stack**
-- AI
-- React
-- Cloud
-
-✨ Emergency Support
-✨ Smart Alerts
-✨ AI Assistance
-
-</td>
-</tr>
-</table>
-## 🏅 Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Amazon ML Summer School 2026
-Selected from a highly competitive national pool to learn directly from Amazon Scientists in Machine Learning, Deep Learning and Generative AI.
-
-</td>
-
-<td width="50%">
-
-### 📄 Research Publication
-Published **"Smart Accident Detection and Emergency Alert System – AI Powered"** in **MAT Journals**.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 AI Internships
-- MirAI School of Technology
-- AICTE EduSkills
-- AI Deployment & Automation
-
-</td>
-
-<td width="50%">
-
-### 🏆 Hackathons
-- MIND SPRINT 2K25
-- HackMelaa 2026
-- AI Project Demonstrations
-
-</td>
-</tr>
-</table>
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|---------|------------|------|-------|
-| **B.Tech CSE (AI & ML)** | Pragati Engineering College | 2024 – 2028 | **CGPA: 8.95/10** |
-| **Intermediate (MPC)** | Sasi Junior College | 2022 – 2024 | **967/1000** |
-## 📜 Certifications
-
-- 🤖 Amazon ML Summer School 2026
-- 🎓 NPTEL – Quantum Computing (Elite + Silver)
-- ☁️ AICTE EduSkills AI/ML Internship
-- ⚙️ ServiceNow Virtual Internship
-- 📊 Tata Forage – GenAI Data Analytics
-- 🧠 Meta & NASSCOM – LLM for Young Developers
-- 🐍 HackerRank Python (Basics)
-- 📈 Kaggle – Machine Learning
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakavssprasanna-jpg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakavssprasanna-jpg&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakavssprasanna-jpg&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sakavssprasanna-jpg&theme=github-dark-blue&hide_border=true"/>
 
-</div>
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakavssprasanna-jpg&theme=github-dark&hide_border=true"/>
 </p>
-## 🤝 Connect With Me
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-<a href="https://github.com/sakavssprasanna-jpg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakavssprasanna-jpg&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sakavssprasanna@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sakavssprasanna@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/prasanna_saka/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/sakavssprasanna">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
+
 </p>
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sakavssprasanna-jpg&style=for-the-badge&color=blue"/>
 
 </p>
+
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### 💡 "Building AI solutions that create real-world impact."
 
-*"Building intelligent systems that solve real-world problems."*
-
-⭐ If you like my work, consider starring my repositories.
+⭐ Thank you for visiting my GitHub profile!
 
 </div>
