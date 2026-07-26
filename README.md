@@ -41,3 +41,82 @@ Currently:
 > **"Building AI that solves real-world problems through intelligent systems and impactful software."**
 
 </div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Code Tutor
+
+**Enterprise AI-powered coding assistant**
+
+**Tech Stack**
+- Python
+- Streamlit
+- PyTorch
+- Hugging Face
+- DeepSeek
+
+✨ Intelligent debugging  
+✨ Code explanation  
+✨ AI-powered suggestions
+
+</td>
+
+<td width="50%">
+
+### 💼 AI Career Mentor
+
+**Personalized AI learning platform**
+
+**Tech Stack**
+- React.js
+- PostgreSQL
+- Supabase
+- JavaScript
+
+✨ Progress tracking  
+✨ AI Roadmaps  
+✨ Dashboard Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚦 Smart Traffic Detection
+
+**Real-time Computer Vision System**
+
+**Tech Stack**
+- OpenCV
+- Python
+- React
+- Supabase
+
+✨ Vehicle Detection
+✨ Emergency Alerts
+✨ Live Monitoring
+
+</td>
+
+<td width="50%">
+
+### 🛡️ SAHAYA
+
+**Women's Safety Platform**
+
+**Tech Stack**
+- AI
+- React
+- Cloud
+
+✨ Emergency Support
+✨ Smart Alerts
+✨ AI Assistance
+
+</td>
+</tr>
+</table>
