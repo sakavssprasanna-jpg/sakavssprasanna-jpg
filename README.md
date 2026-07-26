@@ -1,184 +1,127 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontColor=ffffff&fontSize=38&animation=fade&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer%20•%20Machine%20Learning%20Developer&descAlignY=55"/>
-
-# Saka Veera Satya Sai Prasanna
-
-### Artificial Intelligence Engineer • Machine Learning Developer • Researcher
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Computer+Vision+Developer;Amazon+ML+Summer+School+2026;Deep+Learning+%7C+Generative+AI;Always+Learning+Something+New"/>
-
-<p>
-
-<a href="https://github.com/sakavssprasanna-jpg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://leetcode.com/u/prasanna_saka/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/profile/sakavssprasanna"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,100:1e90ff&height=220&section=header&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontSize=36&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<h2 align="center">💻 Terminal Profile System</h2>
 
-# 💻 System Information
-
-```text
-╭─────────────────────────────────────────────────────────────╮
-│ 👤 Name      :: Saka Veera Satya Sai Prasanna              │
-│ 🎓 Degree    :: B.Tech CSE (Artificial Intelligence & ML)  │
-│ 🏫 College   :: Pragati Engineering College                │
-│ ⭐ CGPA      :: 8.95 / 10.0                                │
-│ 🌍 Location  :: Andhra Pradesh, India                      │
-│ 💼 Status    :: AI & ML Intern | Open Source Learner       │
-│ 🔬 Research  :: Smart Accident Detection (MAT Journals)    │
-│ 🚀 Focus     :: AI • ML • CV • GenAI • LLMs               │
-╰─────────────────────────────────────────────────────────────╯
+```ansi
+[1m                                      [0m   [32m[1msakavssprasanna-jpg[0m[90m@[0m[32m[1mmirai[0m
+[1m                                      [0m   [90m----------------------------------------[0m
+[1m                                      [0m   [38;5;208mOS           [0m : [38;5;75mWindows 11[0m
+[1m                .:.:-:.               [0m   [38;5;208mKernel       [0m : [38;5;75mMirAI B.Tech Student[0m
+[1m             ..=*##%%%#:.=            [0m   [38;5;208mHost         [0m : [38;5;75mPragati Engineering College[0m
+[1m            .:=#@@@@@@%#:.#           [0m   [38;5;208mDegree       [0m : [38;5;75mB.Tech CSE (Artificial Intelligence & Machine Learning)[0m
+[1m          ...-*%%%%@@@#*+.#*-         [0m   [38;5;208mCGPA         [0m : [38;5;75m8.95 / 10[0m
+[1m          ...+##++*@@*=++.#*-         [0m   [38;5;208mEditor       [0m : [38;5;75mVisual Studio Code[0m
+[1m         .=*=+@%%#%@@###%.-*-+        [0m   [90m----------------------------------------[0m
+[1m         ..*#+%@@@@%%#%@%..*++        [0m   [38;5;208mLanguages    [0m : [38;5;75mPython | Java | C | C++ | JavaScript | HTML | CSS | SQL[0m
+[1m         ...--#@@%*#%**%*..-=*        [0m   [38;5;208mFrameworks   [0m : [38;5;75mReact | Streamlit | PyTorch | TensorFlow | OpenCV[0m
+[1m        ....:.=*%%%%***+:..:=*+       [0m   [38;5;208mDatabase     [0m : [38;5;75mPostgreSQL | Supabase[0m
+[1m        ... . -***#%#*-. ..:-+*       [0m   [38;5;208mCloud        [0m : [38;5;75mAWS[0m
+[1m        .... .-*%#**++: ....-=*       [0m   [90m----------------------------------------[0m
+[1m       ....  .=*#%%#*+-  .:.::-=      [0m   [38;5;208mFocus        [0m : [38;5;75mMachine Learning | Deep Learning | GenAI | Computer Vision | Research[0m
+[1m       .......:+###**+=....:...:      [0m   [38;5;208mAchievements [0m : [38;5;75mAmazon Machine Learning Summer School 2026[0m
+[1m       ::....:.-*#**##*-........      [0m                   [38;5;75mResearch Publication (MAT Journals)[0m
+[1m      :---...:::+#####*+=........     [0m                   [38;5;75mMirAI AI Builder Internship[0m
+[1m      ....:.::::-##%###%%-..::.:.     [0m                   [38;5;75mAICTE Internships[0m
+[1m      ....:..:---=@%###%%+:..::--     [0m   [90m----------------------------------------[0m
+[1m     ::......:----*%%##@@#-:.--.:-    [0m   [38;5;208mHackathons   [0m : [38;5;75mHackMelaa | MindSprint[0m
+[1m     -:....::.:---=%@@@@@%+-..::..    [0m   [90m----------------------------------------[0m
+[1m     -:....:--:----+%%@@%@%-::...:    [0m   [38;5;208mEmail        [0m : [38;5;75msakavssprasanna@gmail.com[0m
+[1m    =-:.. .:::-:----%%@@%%@=::....:   [0m   [38;5;208mGitHub       [0m : [38;5;75mhttps://github.com/sakavssprasanna-jpg[0m
+[1m    =-::. ..::--.:::*%%@@%%=.:. ...   [0m   [38;5;208mLinkedIn     [0m : [38;5;75mhttps://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a[0m
+[1m    ---:.. ....:..::=%%%%##-.:. ...   [0m   [38;5;208mLeetCode     [0m : [38;5;75mhttps://leetcode.com/u/prasanna_saka/[0m
+[1m   ----::.  ........=#%%%%*:... ...-  [0m   [38;5;208mHackerRank   [0m : [38;5;75mhttps://www.hackerrank.com/profile/sakavssprasanna[0m
+[1m   =-:::...  ..... .=#%%#*+... .:+#%  [0m   
+[1m   =::::-==--:::.::-=++#+++=-=+#%%@%  [0m   
+[1m  :-:.:-====+=+=---=--=#++###%%%%%##+ [0m   
 ```
 
----
-
-# 🚀 About Me
-
-I am a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent software that solves real-world problems.
-
-My interests include:
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 💬 Generative AI & LLMs
-- ⚡ Full Stack AI Applications
-- 📊 Data Analytics
-
----
-
-# 🛠 Tech Stack
+<br />
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,postgres,supabase,pytorch,tensorflow,opencv,docker,aws,git,github,vscode"/>
-
+  <a href="https://github.com/sakavssprasanna-jpg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/prasanna_saka/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sakavssprasanna" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:sakavssprasanna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/normal-badge/?username=sakavssprasanna-jpg&color=1e90ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
----
+<br />
 
-# 🏆 Highlights
-
-- 🟢 Amazon ML Summer School 2026 Scholar
-- 🟢 Research Publication – MAT Journals
-- 🟢 MirAI AI Builder Internship
-- 🟢 AICTE EduSkills Internships
-- 🟢 National Hackathon Participant
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Code Tutor | AI-powered coding assistant with PyTorch & Hugging Face |
-| 💼 AI Career Mentor | Personalized AI learning & career guidance platform |
-| 🚦 Smart Traffic Detection | Computer Vision based traffic monitoring system |
-| 🛡️ SAHAYA | AI-powered Women's Safety Application |
-
----
-
-# 🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- LLM Engineering
-- MLOps
-- Data Structures & Algorithms
-
----
-
-# 🎓 Education
-
-| Degree | Institute | Performance |
-|---------|-----------|------------|
-| B.Tech CSE (AI & ML) | Pragati Engineering College | CGPA **8.95/10** |
-| Intermediate (MPC) | Sasi Junior College | **967/1000** |
-
----
-
-# 📜 Certifications
-
-- Amazon ML Summer School 2026
-- NPTEL Quantum Computing (Elite + Silver)
-- AICTE EduSkills AI/ML Internship
-- ServiceNow Virtual Internship
-- Tata Forage – GenAI Data Analytics
-- Meta & NASSCOM – LLM for Young Developers
-- HackerRank Python
-- Kaggle Machine Learning
-
----
-
-# 📊 GitHub Analytics
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,react,html,css,postgres,supabase,pytorch,tensorflow,opencv,aws,git,github,vscode&perline=9" alt="My Skills" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakavssprasanna-jpg&show_icons=true&theme=github_dark&hide_border=true"/>
+<br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakavssprasanna-jpg&layout=compact&theme=github_dark&hide_border=true"/>
+<h2 align="center">📂 Featured Projects</h2>
 
+| 🤖 **AI Code Tutor** | 💼 **AI Career Mentor** |
+| :--- | :--- |
+| An intelligent companion that analyzes code in real-time, provides contextual feedback, and explains complex algorithms step-by-step. | Generates resume reviews, tailored cover letters, and mock interview practice based on specific job descriptions and user profiles. |
+| 🛠️ `Python` `Gemini API` `Streamlit` | 🛠️ `Python` `LangChain` `Streamlit` |
+
+| 🚦 **Smart Traffic Detection** | 🛡️ **SAHAYA Women's Safety Platform** |
+| :--- | :--- |
+| Real-time computer vision application that detects vehicles, counts traffic density, and dynamically adjusts traffic light timings. | A comprehensive platform featuring instant SOS alerts, real-time location tracking, and audio/video recording for personal safety. |
+| 🛠️ `Python` `OpenCV` `YOLO` | 🛠️ `React` `Supabase` `AWS` |
+
+<br />
+
+<h2 align="center">🏆 Key Achievements</h2>
+
+- 🌟 **Amazon Machine Learning Summer School 2026**
+  - Selected for the prestigious summer school, learning advanced Machine Learning and Deep Learning concepts directly from Amazon scientists.
+- 📝 **Research Publication (MAT Journals)**
+  - Published a research paper focusing on AI/ML applications in real-world problem-solving.
+- 💻 **MirAI AI Builder Internship**
+  - Developed and deployed production-grade AI features and interactive web apps.
+- 🎓 **AICTE Internships**
+  - Completed government-approved internships focusing on machine learning and database systems.
+- 🥇 **Hackathons**
+  - Participated and placed in **HackMelaa** and **MindSprint** hackathons, building prototype solutions in intense sprints.
+
+<br />
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakavssprasanna-jpg&theme=dracula&no-bg=true&no-frame=true" alt="Trophies" width="100%" />
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sakavssprasanna-jpg&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakavssprasanna-jpg&theme=github-dark"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:sakavssprasanna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saka-veera-satya-sai-prasanna-a1a99b32a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/prasanna_saka/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/sakavssprasanna">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sakavssprasanna-jpg&show_icons=true&title_color=ff8c00&text_color=ffffff&icon_color=1e90ff&bg_color=0d1117&border_color=1e90ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakavssprasanna-jpg&layout=compact&title_color=ff8c00&text_color=ffffff&bg_color=0d1117&border_color=1e90ff" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sakavssprasanna-jpg&style=for-the-badge&color=blue"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakavssprasanna-jpg&background=0d1117&border=1e90ff&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=1e90ff&currStreakLabel=ff8c00&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="100%" />
 </p>
 
----
+<br />
 
-<div align="center">
+<hr />
 
-### 💡 "Building AI solutions that create real-world impact."
-
-⭐ Thank you for visiting my GitHub profile!
-
-</div>
+<p align="center">
+  <sub>🚀 <b>Building Intelligent Systems That Solve Real World Problems</b></sub>
+</p>
