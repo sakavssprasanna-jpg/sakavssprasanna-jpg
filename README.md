@@ -127,16 +127,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakavssprasanna-jpg&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakavssprasanna-jpg&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakavssprasanna-jpg&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakavssprasanna-jpg&theme=onedark" alt="Trophies" width="97%" />
 </p>
 
 <p align="center">
