@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontSize=30&fontColor=f97316&fontAlign=50&fontAlignY=35" width="100%" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00ff99,100:00ccff&text=Saka%20Veera%20Satya%20Sai%20Prasanna&fontSize=38&fontColor=ffffff&animation=fade&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer&descAlignY=55"/>
 </h1>
 
 <p align="center">
