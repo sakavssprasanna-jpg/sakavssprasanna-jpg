@@ -85,7 +85,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
-      <a href="github.com/sakavssprasanna-jpg/mentor"><b>View Repository →</b></a>
+       <a href="https://github.com/sakavssprasanna-jpg/mentor"><b>View Repository →</b></a>
     </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       </p>
-      <a href="github.com/sakavssprasanna-jpg/detection1"><b>View Repository →</b></a>
+   <a href="https://github.com/sakavssprasanna-jpg/detection1"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ SAHAYA Women's Safety Platform</h3>
@@ -107,8 +107,7 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/sakavssprasanna-jpg"><b>View Repository →</b></a>
-    </td>
+    <a href="https://github.com/sakavssprasanna-jpg"><b>View Repository →</b></a>    </td>
   </tr>
 </table>
 
