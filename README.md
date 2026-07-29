@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
       </p>
-      <a href="github.com/sakavssprasanna-jpg/Code"><b>View Repository →</b></a>
+      <a href="https://github.com/sakavssprasanna-jpg/Code"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 AI Career Mentor</h3>
