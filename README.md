@@ -99,15 +99,20 @@
       </p>
    <a href="https://github.com/sakavssprasanna-jpg/detection1"><b>View Repository →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ SAHAYA Women's Safety Platform</h3>
-      <p>A comprehensive safety platform integrating real-time location tracking, SOS alerts, and AI-based voice recognition threat detection.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    <a href="https://github.com/sakavssprasanna-jpg"><b>View Repository →</b></a>    </td>
+   <td width="50%" valign="top">
+  <h3>🤖 Order Status AI Agent</h3>
+  <p>An AI-powered order tracking workflow built using <b>n8n</b>. It enables users to track order status using an Order ID through an automated workflow with conversational AI responses.</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white" />
+  </p>
+
+  <a href="https://github.com/sakavssprasanna-jpg/order-status-ai-agent">
+    <b>View Repository →</b>
+  </a>
+</td>
   </tr>
 </table>
 
